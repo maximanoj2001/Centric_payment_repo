@@ -1,0 +1,51 @@
+D:\VB Projects\Centric.Payment.API\publish\Centric Payment API.exe
+D:\VB Projects\Centric.Payment.API\publish\appsettings.Development.json
+D:\VB Projects\Centric.Payment.API\publish\appsettings.json
+D:\VB Projects\Centric.Payment.API\publish\Centric Payment API.dll
+D:\VB Projects\Centric.Payment.API\publish\Centric Payment API.runtimeconfig.json
+D:\VB Projects\Centric.Payment.API\publish\Centric Payment API.pdb
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.AspNetCoreServer.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.Core.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.Logging.AspNetCore.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.RuntimeSupport.dll
+D:\VB Projects\Centric.Payment.API\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.Data.SqlClient.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.EntityFrameworkCore.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.Identity.Client.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.IdentityModel.Logging.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.IdentityModel.Protocols.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.IdentityModel.Tokens.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.OpenApi.dll
+D:\VB Projects\Centric.Payment.API\publish\Microsoft.Win32.SystemEvents.dll
+D:\VB Projects\Centric.Payment.API\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\VB Projects\Centric.Payment.API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VB Projects\Centric.Payment.API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VB Projects\Centric.Payment.API\publish\System.Configuration.ConfigurationManager.dll
+D:\VB Projects\Centric.Payment.API\publish\System.Drawing.Common.dll
+D:\VB Projects\Centric.Payment.API\publish\System.IdentityModel.Tokens.Jwt.dll
+D:\VB Projects\Centric.Payment.API\publish\System.Runtime.Caching.dll
+D:\VB Projects\Centric.Payment.API\publish\System.Security.Cryptography.ProtectedData.dll
+D:\VB Projects\Centric.Payment.API\publish\System.Security.Permissions.dll
+D:\VB Projects\Centric.Payment.API\publish\System.Windows.Extensions.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VB Projects\Centric.Payment.API\publish\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VB Projects\Centric.Payment.API\publish\Centric Payment API.deps.json

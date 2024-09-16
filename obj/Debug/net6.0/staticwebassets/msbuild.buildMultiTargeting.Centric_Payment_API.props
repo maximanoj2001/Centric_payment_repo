@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Centric_Payment_API.props" />
+</Project>

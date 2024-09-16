@@ -1,0 +1,62 @@
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\appsettings.Development.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\appsettings.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Centric Payment API
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Centric Payment API.deps.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Centric Payment API.runtimeconfig.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Centric Payment API.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Centric Payment API.pdb
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.AspNetCoreServer.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Logging.AspNetCore.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.RuntimeSupport.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Humanizer.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.OpenApi.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.Drawing.Common.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.Runtime.Caching.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.csproj.AssemblyReference.cache
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.AssemblyInfoInputs.cache
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.AssemblyInfo.cs
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.csproj.CoreCompileInputs.cache
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.MvcApplicationPartsAssemblyInfo.cs
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.MvcApplicationPartsAssemblyInfo.cache
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.Centric Payment API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.Centric Payment API.props
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.Centric Payment API.props
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.Centric Payment API.props
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\scopedcss\bundle\Centric Payment API.styles.css
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.csproj.CopyComplete
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\refint\Centric Payment API.dll
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.pdb
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\Centric Payment API.genruntimeconfig.cache
+D:\VB Projects\Centric.Payment.API\Centric Payment API\obj\Release\net6.0\linux-x64\ref\Centric Payment API.dll

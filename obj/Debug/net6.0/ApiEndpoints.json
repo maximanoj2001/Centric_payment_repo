@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "Centric_Payment_API.Controllers.Consumption",
+    "Method": "UpdateUsageHistory",
+    "RelativePath": "api/v1/consumption/view-usage-history",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "client_acct_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "date_range_start",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "date_range_end",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Centric_Payment_API.DataBase.UsageHistoryRecord, Centric_Payment_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Centric_Payment_API.Controllers.PaymentsController",
+    "Method": "ViewPaymentHistory",
+    "RelativePath": "api/v1/payments/view-payment-history",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Centric_Payment_API.PaymentHistoryReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Centric_Payment_API.Controllers.Statement",
+    "Method": "ViewStatementHistory",
+    "RelativePath": "api/v1/statements/view-statement-history",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "client_acct_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "start_date",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "end_date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Centric_Payment_API.DataBase.StatementHistoryRecord, Centric_Payment_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Centric_Payment_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Centric_Payment_API.WeatherForecast, Centric_Payment_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
